@@ -27,5 +27,5 @@ Resampling was also used as a machine learning model. This ensured that the 'y' 
 
 **Summary**
 
-The Logisitic Model using the resampled data works the best predicting who will be a potential loan risk. Though both models were 99% accurate overall, the resampled data was more precise (+14%) at predicting loan risks compared to those who were actually loan risks. It also was yeilded a higher recall score by 9%. 
-I would recommend using the Logistic Regression model with resampled data for this problem. It is no better to reject a loan from an individual who is not a loan risk, than it is to give a loan to an individual who is not in good standing; either way, the comapny will lose out on money. The model with the highest accuracy, most precise, and highest recall score is the best fit. 
+The Logisitic Model using the resampled data works the best predicting who will be a potential loan risk. Though both models were 99% accurate overall, the resampled data was more precise (+14%) at predicting loan risks compared to those who were actually loan risks. It also yeilded a higher recall score by 9%. 
+I would recommend using the Logistic Regression model with resampled data for this problem. It is no better to reject a loan from an individual who is not a loan risk, than it is to give a loan to an individual who is not in good standing; either way, the company will lose out on money. The model with the highest accuracy, most precise, and highest recall score is the best fit. 
